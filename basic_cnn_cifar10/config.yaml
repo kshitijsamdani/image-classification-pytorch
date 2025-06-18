@@ -1,0 +1,7 @@
+epochs: 25
+batch_size: 64
+criterion: cross_entropy
+learning_rate: 0.001
+momentum: 0.9
+optimizer: SGD
+model: basic_cnn
